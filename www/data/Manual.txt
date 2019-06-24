@@ -1,0 +1,80 @@
+<main entries> Introduction; Background Story; Characters; Configuration; Stats; Combat
+# Introduction
+<name> Introduction
+<icon> 4
+<text>
+Welcome to the \c[4]Heroes of Spyria\c[0] game
+manual! Here you will find information
+about the systems in the game and learn 
+more about its background story, as well 
+as information on the main characters.
+<end entry>
+# Story
+<name> Background Story
+<icon> 189
+<text>
+Welcome to \c[6]Spyria\c[0]! A land of beauty and 
+strife. A great war is ravaging much of the 
+world, as the nation of \c[6]Ishtar\c[0] battles 
+the kingdom of \c[6]Argonia\c[0]. 
+
+However, an ancient evil seeks to exact his 
+revenge upon an unsuspecting world after 
+a thousand years of imprisonment. 
+
+You play the role of the hero, thrust into the 
+middle of a struggle with nothing less than 
+the fate of the world at stake.
+<end entry>
+# Characters
+<name> Characters
+<icon> 82
+<picture> heroes
+<subentries> Hiro; Madilyn; Winter; Davos
+<text>
+Here you can find more information about 
+the main characters, as well as supporting 
+characters. 
+
+Press \c[4]<enter>\c[0] to select a character.
+<end entry>
+#Hiro
+<name> Hiro
+<picture> Hiro
+<end entry>
+#Madilyn
+<name> Madilyn
+<picture> Madilyn
+<end entry>
+#Winter
+<name> Winter
+<picture> Winter
+<end entry>
+#Davos
+<name> Davos
+<picture> Davos
+<end entry>
+# Configuration
+<name> Configuration
+<icon> 83
+<text>
+This is the \i[189]Story of the game. Here you 
+can read how \c[10]awesome\c[0] the world I 
+created relates to the characters.
+<end entry>
+# Stats
+<name> Stats
+<icon> 193
+<text>
+This is the \i[189]Story of the game. Here you 
+can read how \c[10]awesome\c[0] the world I 
+created relates to the characters.
+<end entry>
+# Combat
+<name> Combat
+<icon> 97
+<text>
+This is the \i[189]Story of the game. Here you 
+can read how \c[10]awesome\c[0] the world I 
+created relates to the characters.
+<end entry>
